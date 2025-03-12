@@ -1,2 +1,6 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18659414)
-# STEM103_Level3_1-ForLoop
+1st loop counts the total of missions in the first list
+
+2nd loop counts the success in the success list then outputs the number , 
+
+the code takes the two number of outputs to calculate the percentage rate of success 
+any year before the year 2000 it will print or after the year 2000 it wont print
